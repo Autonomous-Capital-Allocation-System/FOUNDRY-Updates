@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0-beta.3",
+  "notes_url": "https://github.com/Autonomous-Capital-Allocation-System/FOUNDRY-Updates/releases/tag/v2.0.0-beta.3",
+  "mandatory": false,
+  "artifacts": {
+    "macos-arm64": {
+      "url": "https://github.com/Autonomous-Capital-Allocation-System/FOUNDRY-Updates/releases/download/v2.0.0-beta.3/FOUNDRY_Mac_2.0.0-beta.3.dmg",
+      "sha256": "2d37dcffc15f112ca68d206ace2c15b708240da3a6e07ae2a691ada4d375f690"
+    }
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "key_id": "acas-foundry-v1",
+    "value": "Xj86W1LgtCL9Q64IY75h2uH29Rj5jC0MVFst+MPdjwC/6ZFoI8i1j75oy6PIyrKqqk1UD0UYdRotQFUTQtb9Dg=="
+  }
+}
