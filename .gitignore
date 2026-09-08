@@ -1,0 +1,3 @@
+*.unsigned.json
+*.partial
+.DS_Store

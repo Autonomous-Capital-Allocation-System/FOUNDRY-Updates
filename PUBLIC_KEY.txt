@@ -1,0 +1,4 @@
+Key ID: acas-foundry-v1
+Algorithm: Ed25519
+Encoding: Base64 raw 32-byte public key
+Public key: tiNqjiudCqKo7IpZu26YaMZybX5TCW4n+c9wxCULy3g=
